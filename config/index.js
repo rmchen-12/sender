@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'sender',
-  date: '2019-11-14',
+  projectName: 'asdf',
+  date: '2019-11-15',
   designWidth: 750,
   deviceRatio: {
     '640': 2.34 / 2,

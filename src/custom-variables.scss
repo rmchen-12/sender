@@ -1,0 +1,11 @@
+/* 改变主题变量，具体变量名可查看 taro-ui/dist/style/variables/default.scss 文件 */
+$color-brand: rgb(252, 177, 247);
+
+/* 引入 Taro UI 默认样式 */
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/loading.scss";
+@import "~taro-ui/dist/style/components/form.scss";
+@import "~taro-ui/dist/style/components/input.scss";
+@import "~taro-ui/dist/style/components/tabs.scss";
+@import "~taro-ui/dist/style/components/modal.scss";
+@import "~taro-ui/dist/style/components/avatar.scss";

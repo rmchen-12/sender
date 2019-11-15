@@ -1,0 +1,14 @@
+// @import "../../custom-variables.scss";
+$color-brand: rgb(252, 177, 247);
+
+.submit-btn {
+  position: fixed;
+  bottom: 0;
+}
+
+.logo {
+  position: relative;
+  color: $color-brand;
+  text-align: center;
+  margin-top: 100px;
+}

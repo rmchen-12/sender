@@ -1,7 +1,7 @@
 {
 	"miniprogramRoot": "dist/",
 	"projectname": "sender",
-	"description": "粉丝发号系统",
+	"description": "发票系统",
 	"appid": "wx81b8f40ad6334720",
 	"setting": {
 		"urlCheck": true,
